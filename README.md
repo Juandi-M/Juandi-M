@@ -31,12 +31,11 @@
 
 <div align="center">
 
-| ![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png) | ![Docker Essentials: A Developer Introduction](https://images.credly.com/size/200x200/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png) |
+| <img src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200" height="200"> | <img src="https://images.credly.com/size/200x200/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" width="200" height="200"> |
 |:---:|:---:|
-| ![Dell EMC Specialist - Platform Engineer Isilon Version 3.0](https://images.credly.com/size/200x200/images/7f278050-123c-465f-8c5b-cbd899f48212/Specialist_Badge_-_Platform_Engineer_PowerScale.png) | ![Dell EMC Associate - Information Storage and Management Version 4.0](https://images.credly.com/size/200x200/images/1b2d8e5c-be9a-47cb-b28a-58077c1929f9/Associate_Badge_-_Information_Storage_and_Management.png) |
+| <img src="https://images.credly.com/size/200x200/images/7f278050-123c-465f-8c5b-cbd899f48212/Specialist_Badge_-_Platform_Engineer_PowerScale.png" width="200" height="200"> | <img src="https://images.credly.com/size/200x200/images/1b2d8e5c-be9a-47cb-b28a-58077c1929f9/Associate_Badge_-_Information_Storage_and_Management.png" width="200" height="200"> |
 
 </div>
-
 
 ## 💬 Contact
 - **Email**: [juanmonge95@gmail.com](mailto:juanmonge95@gmail.com)
