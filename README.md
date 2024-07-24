@@ -1,16 +1,22 @@
-### Hi there 👋
+# Juan D. Monge Jimenez
 
-<!--
-**Juandi-M/Juandi-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Juan, a passionate DevOps Engineer with expertise in infrastructure architecture, cloud operations, and automation. I love optimizing workflows and enhancing system reliability with Kubernetes, Terraform, AWS, and Azure. 
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **DevOps**: AWS, Azure, Kubernetes, Terraform, Docker, CI/CD, Jenkins, GitHub Actions
+- **Scripting**: Python, Bash, PowerShell
+- **Databases**: SQL, MongoDB, DynamoDB
+- **Web Development**: HTML, CSS, JavaScript
+- **Mobile Development**: Xamarin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- AWS Certified Solutions Architect – Associate
+- Docker Essentials: A Developer Introduction
+
+## 💬 Contact
+- **Email**: [juanmonge95@gmail.com](mailto:juanmonge95@gmail.com)
+- **Phone**: [+50683240656](tel:+50683240656) | [+1-407-770-8843](tel:+14077708843)
+- [LinkedIn](https://www.linkedin.com/in/juanmongejimenez) | [GitHub](https://github.com/Juandi-M)
+
+## 🎯 Interests
+- Tinkering with electronics and Arduinos
