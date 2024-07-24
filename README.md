@@ -4,36 +4,39 @@
 
 ## 🚀 Skills
 
-<div align="center">
+![AWS](https://img.shields.io/badge/AWS-blue) 
+![Azure](https://img.shields.io/badge/Azure-blue) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue) 
+![Terraform](https://img.shields.io/badge/Terraform-blue) 
+![Docker](https://img.shields.io/badge/Docker-blue) 
+![CI/CD](https://img.shields.io/badge/CI/CD-blue) 
+![Jenkins](https://img.shields.io/badge/Jenkins-blue) 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue) 
 
-| **DevOps** | **Scripting** |
-|------------|---------------|
-| ![AWS](https://img.shields.io/badge/AWS-blue) | ![Python](https://img.shields.io/badge/Python-green) |
-| ![Azure](https://img.shields.io/badge/Azure-blue) | ![Bash](https://img.shields.io/badge/Bash-green) |
-| ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue) | ![PowerShell](https://img.shields.io/badge/PowerShell-green) |
-| ![Terraform](https://img.shields.io/badge/Terraform-blue) |  |
-| ![Docker](https://img.shields.io/badge/Docker-blue) |  |
-| ![CI/CD](https://img.shields.io/badge/CI/CD-blue) |  |
-| ![Jenkins](https://img.shields.io/badge/Jenkins-blue) |  |
-| ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-blue) |  |
+![Python](https://img.shields.io/badge/Python-green) 
+![Bash](https://img.shields.io/badge/Bash-green) 
+![PowerShell](https://img.shields.io/badge/PowerShell-green)
 
-| **Databases** | **Web Development** | **Mobile Development** |
-|---------------|---------------------|------------------------|
-| ![SQL](https://img.shields.io/badge/SQL-orange) | ![HTML](https://img.shields.io/badge/HTML-yellow) | ![Xamarin](https://img.shields.io/badge/Xamarin-red) |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-orange) | ![CSS](https://img.shields.io/badge/CSS-yellow) |  |
-| ![DynamoDB](https://img.shields.io/badge/DynamoDB-orange) | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) |  |
+![SQL](https://img.shields.io/badge/SQL-orange) 
+![MongoDB](https://img.shields.io/badge/MongoDB-orange) 
+![DynamoDB](https://img.shields.io/badge/DynamoDB-orange)
 
-</div>
+![HTML](https://img.shields.io/badge/HTML-yellow) 
+![CSS](https://img.shields.io/badge/CSS-yellow) 
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+![Xamarin](https://img.shields.io/badge/Xamarin-red)
 
 ## 📜 Certifications
 
 <div align="center">
 
-| ![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png) | ![Docker Essentials: A Developer Introduction](https://images.credly.com/size/100x100/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png) |
+| ![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png) | ![Docker Essentials: A Developer Introduction](https://images.credly.com/size/200x200/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png) |
 |:---:|:---:|
-| ![Dell EMC Specialist - Platform Engineer Isilon Version 3.0](https://images.credly.com/size/100x100/images/7f278050-123c-465f-8c5b-cbd899f48212/Specialist_Badge_-_Platform_Engineer_PowerScale.png) | ![Dell EMC Associate - Information Storage and Management Version 4.0](https://images.credly.com/size/100x100/images/1b2d8e5c-be9a-47cb-b28a-58077c1929f9/Associate_Badge_-_Information_Storage_and_Management.png) |
+| ![Dell EMC Specialist - Platform Engineer Isilon Version 3.0](https://images.credly.com/size/200x200/images/7f278050-123c-465f-8c5b-cbd899f48212/Specialist_Badge_-_Platform_Engineer_PowerScale.png) | ![Dell EMC Associate - Information Storage and Management Version 4.0](https://images.credly.com/size/200x200/images/1b2d8e5c-be9a-47cb-b28a-58077c1929f9/Associate_Badge_-_Information_Storage_and_Management.png) |
 
 </div>
+
 
 ## 💬 Contact
 - **Email**: [juanmonge95@gmail.com](mailto:juanmonge95@gmail.com)
