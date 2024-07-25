@@ -1,6 +1,6 @@
 # Juan D. Monge Jimenez
 
-👋 Hi, I'm Juan, a passionate DevOps Engineer with expertise in infrastructure architecture, cloud operations, and automation. I love optimizing workflows and enhancing system reliability with Kubernetes, Terraform, AWS, and Azure. 
+👋 Hi, I'm Juan, a passionate DevOps Engineer with expertise in infrastructure architecture, cloud operations, and automation. I love optimizing workflows and enhancing system reliability with Kubernetes, Terraform, AWS, and Azure. Proud owner of CalenbookAI, an automation-focused small business.
 
 ## 🚀 Skills
 
@@ -37,9 +37,16 @@
 
 </div>
 
+## 🌍 Locations
+
+- 🇺🇸 Orlando, FL, USA
+- 🇺🇸 Los Angeles, CA, USA
+- 🇨🇷 San Jose, Costa Rica
+- 🇬🇹 Guatemala City, Guatemala
+
 ## 💬 Contact
 - **Email**: [juanmonge95@gmail.com](mailto:juanmonge95@gmail.com)
-- **Phone**:  ![USA](https://cdn-icons-png.flaticon.com/16/197/197484.png) [+1-407-770-8843](tel:+14077708843) || ![Costa Rica](https://cdn-icons-png.flaticon.com/16/197/197506.png) [+50683240656](tel:+50683240656)
+- **Phone**: ![Costa Rica](https://cdn-icons-png.flaticon.com/16/197/197506.png) [+50683240656](tel:+50683240656) | ![USA](https://cdn-icons-png.flaticon.com/16/197/197484.png) [+1-407-770-8843](tel:+14077708843)
 - [LinkedIn](https://www.linkedin.com/in/juanmongejimenez) | [GitHub](https://github.com/Juandi-M)
 
 ## 🎯 Interests
