@@ -39,7 +39,7 @@
 
 ## 🌍 Locations
 
-- 🇺🇸 Orlando, FL, USA
+- 🇺🇸 Miami, FL, USA
 - 🇺🇸 Los Angeles, CA, USA
 - 🇨🇷 San Jose, Costa Rica
 - 🇬🇹 Guatemala City, Guatemala
