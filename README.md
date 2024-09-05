@@ -55,5 +55,5 @@
 - Electricity design and teaching of NEC code
 - Gardening
 - Cars
-- Hiking 
+- IDPA - IPSC - Shooting Sports - Archery 
 - Warhammer 40k
