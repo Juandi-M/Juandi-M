@@ -31,7 +31,7 @@
 
 <div align="center">
 
-| <img src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200" height="200"> | <img src="https://images.credly.com/size/200x200/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" width="200" height="200"> |
+| <img src="https://images.credly.com/size/200x200/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="200" height="200"> | <img src="https://www.credly.com/earner/earned/badge/b6eecadd-102e-46bf-9d0b-a268ee5909f7" width="200" height="200"> |
 |:---:|:---:|
 | <img src="https://images.credly.com/size/200x200/images/7f278050-123c-465f-8c5b-cbd899f48212/Specialist_Badge_-_Platform_Engineer_PowerScale.png" width="200" height="200"> | <img src="https://images.credly.com/size/200x200/images/1b2d8e5c-be9a-47cb-b28a-58077c1929f9/Associate_Badge_-_Information_Storage_and_Management.png" width="200" height="200"> |
 
