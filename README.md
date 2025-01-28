@@ -1,6 +1,6 @@
 # Juan D. Monge Jimenez
 
-👋 Hi, I'm Juan, a passionate DevOps Engineer with expertise in infrastructure architecture, cloud operations, and automation. I love optimizing workflows and enhancing system reliability with Kubernetes, Terraform, AWS, and Azure. Proud owner of CalenbookAI, an automation-focused small business.
+👋 Hi, I'm Juan, a passionate DevOps & Fullstack Engineer with expertise in infrastructure architecture, cloud operations, automation and web development. I love optimizing workflows and enhancing system reliability with Kubernetes, Terraform, AWS, and Azure. Proud owner of CalenbookAI, an automation-focused small business.
 
 ## 🚀 Skills
 
